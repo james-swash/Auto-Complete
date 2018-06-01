@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1452886961 source:c:\users\james_000\desktop\electronics\2nd year\predictivetext\main.c
+	"PredictiveText.h"
+
+1452870478 c:\users\james_000\desktop\electronics\2nd year\predictivetext\predictivetext.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1452889283 source:c:\users\james_000\desktop\electronics\2nd year\predictivetext\predictivetext.c
+	"PredictiveText.h"
+
+1452959118 source:c:\users\adam\desktop\predictivetext\main.c
+	"PredictiveText.h"
+
+1452961597 c:\users\adam\desktop\predictivetext\predictivetext.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<time.h>
+	<Windows.h>
+
+1452961594 source:c:\users\adam\desktop\predictivetext\predictivetext.c
+	"PredictiveText.h"
+
+1453076705 source:c:\users\james_000\desktop\predictivetext\main.c
+	"PredictiveText.h"
+
+1452962082 c:\users\james_000\desktop\predictivetext\predictivetext.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<time.h>
+	<Windows.h>
+
+1453075663 source:c:\users\james_000\desktop\predictivetext\predictivetext.c
+	"PredictiveText.h"
+
